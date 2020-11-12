@@ -1,0 +1,22 @@
+{
+  "name": "consider_webgl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomjaylee/consider_webgl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomjaylee/consider_webgl/issues"
+  },
+  "homepage": "https://github.com/atomjaylee/consider_webgl#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
